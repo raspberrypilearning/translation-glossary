@@ -20,9 +20,9 @@ title:
 
 {:class="blockmoreblocks"}
 
-Physical computing
+피지컬 컴퓨팅
 
-Python
+파이썬 (Python)
 
 Raspberry Pi
 
@@ -32,7 +32,11 @@ CoderDojo
 
 Blender
 
-HTML/CSS/JavaScript
+HTML
+
+CSS
+
+JavaScript
 
 Sonic Pi
 
