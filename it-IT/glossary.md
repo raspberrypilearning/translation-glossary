@@ -20,7 +20,7 @@ title:
 
 {:class="blockmoreblocks"}
 
-Physical computing
+Informatica fisica
 
 Python
 
@@ -28,11 +28,15 @@ Raspberry Pi
 
 Code Club
 
-CoderDojo
+Coderdojo
 
 Blender
 
-HTML/CSS/JavaScript
+HTML
+
+CSS
+
+JavaScript
 
 Sonic Pi
 
