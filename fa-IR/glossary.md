@@ -22,9 +22,9 @@ title:
 
 Physical computing
 
-Python
+پایتون
 
-Raspberry Pi
+رزبری پای
 
 Code Club
 
@@ -32,7 +32,11 @@ CoderDojo
 
 Blender
 
-HTML/CSS/JavaScript
+HTML
+
+CSS
+
+JavaScript
 
 Sonic Pi
 
