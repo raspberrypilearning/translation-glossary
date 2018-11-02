@@ -1,7 +1,11 @@
 --- challenge ---
+
 title:
+
 --- hint ---
+
 --- collapse ---
+
 .png
 {:target="_blank"}
 {:class="blockevents"}
