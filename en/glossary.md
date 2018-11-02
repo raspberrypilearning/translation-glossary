@@ -32,7 +32,11 @@ CoderDojo
 
 Blender
 
-HTML/CSS/JavaScript
+HTML
+
+CSS
+
+JavaScript
 
 Sonic Pi
 
