@@ -20,11 +20,11 @@ title:
 
 {:class="blockmoreblocks"}
 
-Physical computing
+物理计算
 
 Python
 
-Raspberry Pi
+树莓派
 
 Code Club
 
@@ -48,44 +48,44 @@ Arduino
 
 Circuit Playground
 
-Introduction
+介绍
 
-Instructions
+说明
 
-Additional information for educators
+教师附加信息
 
-Additional information for club leaders
+对小组领导的衍生信息
 
-Club leader notes
+导师笔记
 
-Resources
+资源
 
-Learning objectives
+学习目标
 
-Project materials
+项目资源
 
-Challenge
+挑战
 
-Frequently asked questions
+常见问题
 
-What you will need
+你将需要什么
 
-What you will make
+你将做出什么
 
-What you will learn
+学习具体目标
 
-Raspberry Pi Digital Making Curriculum
+Raspberry Pi数字制作课程
 
-Creator
+创造者
 
-Builder
+构建者
 
-Developer
+开发者
 
-Maker
+制作者
 
-Software
+软件
 
-Hardware
+硬件
 
-Printer-friendly version
+适合打印的版本
