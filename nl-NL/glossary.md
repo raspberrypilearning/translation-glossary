@@ -20,7 +20,7 @@ title:
 
 {:class="blockmoreblocks"}
 
-Physical computing
+Fysiek computergebruik
 
 Python
 
@@ -32,7 +32,11 @@ CoderDojo
 
 Blender
 
-HTML/CSS/JavaScript
+HTML
+
+CSS
+
+JavaScript
 
 Sonic Pi
 
